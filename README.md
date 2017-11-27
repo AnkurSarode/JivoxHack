@@ -3,7 +3,7 @@
 ###Website Made for Jivox Hackathon 6/8/2016 at Bangalore
 ####The Website has been hosted here: http://centrix.herokuapp.com
 
-###Technologies used
+#Technologies used
 ===
 Frontend:  
 	- Angular  
